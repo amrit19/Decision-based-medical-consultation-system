@@ -1,5 +1,6 @@
-# Decision based medical consultation system
-The decision system accepts the symptoms of an unhealthy patient and then predicts the disease of the patient and suggests a possible remedy. Currently the inference engine and knowledge base of the system is limited to only certain diseases, as the goal was to understand how an expert system is developed using SWI-Prolog. In future the plan is to expand them and make it more diverse.
+I worked on this project as part of my Artificial Intelligence course at NIT Rourkela in 2019. The intention was to get acquainted with logic programming. 
+
+The decision system accepts the symptoms of an unhealthy patient and then predicts the disease of the patient and suggests a possible remedy. Currently the inference engine and knowledge base of the system is limited to only certain diseases, as the goal was to understand how an expert system is developed using SWI-Prolog.
 
 How to run:-
 
